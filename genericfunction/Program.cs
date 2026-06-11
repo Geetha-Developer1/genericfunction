@@ -23,21 +23,21 @@ namespace genericfunction
     }
     internal class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Enter student id :");
-            int id=int.Parse(Console.ReadLine());
-            Console.WriteLine("ENter student name :");
-            string name = Console.ReadLine();
-            Console.WriteLine("Enter Student Age :");
-            int age= int.Parse(Console.ReadLine());
-            student s=new student();
-            s.Display(id, name, age);
-            s.marks(90, 80, 70);
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine("Enter student id :");
+        //    int id=int.Parse(Console.ReadLine());
+        //    Console.WriteLine("ENter student name :");
+        //    string name = Console.ReadLine();
+        //    Console.WriteLine("Enter Student Age :");
+        //    int age= int.Parse(Console.ReadLine());
+        //    student s=new student();
+        //    s.Display(id, name, age);
+        //    s.marks(90, 80, 70);
 
 
             
 
-        }
+        //}
     }
 }
