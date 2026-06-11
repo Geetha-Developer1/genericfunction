@@ -17,10 +17,10 @@ namespace genericfunction
     }
     internal class genericclassExample
     {
-        static void Main(string[] args)
-        {
-            example<int,string> obj = new example<int, string>();
-            obj.Display(100, "abc");
-        }
+        //static void Main(string[] args)
+        //{
+        //    example<int,string> obj = new example<int, string>();
+        //    obj.Display(100, "abc");
+        //}
     }
 }

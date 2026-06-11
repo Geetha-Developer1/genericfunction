@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="delegate2.cs" />
+    <Compile Include="program1.cs" />
     <Compile Include="genericclass.cs" />
     <Compile Include="genericclassExample.cs" />
     <Compile Include="Program.cs" />
